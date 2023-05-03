@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PROJECT.iml" filepath="$PROJECT_DIR$/.idea/PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-plus-base/platform-plus-base.iml" filepath="$PROJECT_DIR$/platform-plus-base/platform-plus-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-plus-parent/platform-plus-parent.iml" filepath="$PROJECT_DIR$/platform-plus-parent/platform-plus-parent.iml" />
+    </modules>
+  </component>
+</project>
